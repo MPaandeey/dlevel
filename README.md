@@ -3,7 +3,7 @@ Get any level of subdomain from ```1....N```
 ## Install
 
 ```bash
-go get -u github.com/mpaandeey/dlevel
+go get -u github.com/MPaandeey/dlevel
 ```
 ## Usage Example
 ```
